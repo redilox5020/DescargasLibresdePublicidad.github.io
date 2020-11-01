@@ -532,6 +532,9 @@ main{
     }
 }
 @media screen and (max-width:500px){
+    .grid-title{
+        font-size: 25px;
+    }
     .Galeria{
         padding: 20px 3px;
     }
